@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  display: flex;
+}
+
+section {
+  background-color: beige;
+  margin: auto;
+  padding: 60px;
+  color: black;
+  border-radius: 10px;
+}
+
+button {
+  background-color: blueviolet;
+  font-weight: 20px;
+  color: beige;
+  padding: 15px;
+  border-radius: 5px;
+}

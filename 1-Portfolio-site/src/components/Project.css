@@ -1,0 +1,13 @@
+.project {
+    background-color: #28304c;
+    display: grid;
+    gap: 15px;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.project p {
+    color: #c9d1d9a2;
+}
